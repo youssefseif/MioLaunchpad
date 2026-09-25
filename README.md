@@ -9,7 +9,8 @@ Un sostituto minimale, fluido e nativo per il Launchpad di macOS, sviluppato in 
 - **Ricerca istantanea**: Digita direttamente per filtrare i programmi installati.
 
 ## Integrazione Trackpad (Glide)
-L'applicazione è configurata per essere aperta comodamente tramite gesture a 4 dita grazie all'utility open-source **Glide**.
+L'applicazione è configurata per essere aperta comodamente tramite gesture a 4 dita grazie all'utility open-source **Glide**. https://github.com/Vatsal057/Glide
+
 
 ## Crediti e Ringraziamenti
 - Sviluppato e perfezionato con il supporto di **Anthropic Claude** e **Google Gemini**.
