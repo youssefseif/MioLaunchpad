@@ -1,6 +1,6 @@
 # MioLaunchpad
 
-Un sostituto minimale, fluido e nativo per il Launchpad di macOS, sviluppato in Swift e AppKit.
+Un sostituto minimale, fluido e nativo per il Launchpad di macOS, sviluppato in Swift e AppKit invece del orrendo launchpad con spotlight dei nuovi sistemi operativi mac os 26+
 
 ## Caratteristiche
 - **Separazione Smart**: Suddivide le app personali da quelle native di sistema.
